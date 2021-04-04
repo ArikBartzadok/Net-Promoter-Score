@@ -7,3 +7,9 @@
 - TypeORM
 - Sqlite3
 - UUID:v4
+- Jest
+- Supertest
+
+## Workflow
+-> request -> routes -> controller -> repository [model]
+<- response <- controller <- repository
