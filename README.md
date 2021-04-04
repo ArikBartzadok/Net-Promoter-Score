@@ -9,7 +9,11 @@
 - UUID:v4
 - Jest
 - Supertest
+- Nodemailer
+- Handlebars
 
 ## Workflow
+
 -> request -> routes -> controller -> repository [model]
+
 <- response <- controller <- repository
