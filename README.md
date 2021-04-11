@@ -11,6 +11,8 @@
 - Supertest
 - Nodemailer
 - Handlebars
+- Yup
+- Express Async Errors
 
 ## Workflow
 

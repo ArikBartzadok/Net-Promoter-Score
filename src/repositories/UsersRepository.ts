@@ -1,5 +1,5 @@
-import { Entity, EntityRepository, Repository } from "typeorm";
-import { User } from "../models/User";
+import { Entity, EntityRepository, Repository } from "typeorm"
+import { User } from "../models/User"
 
 // herdando as funcionalidades do repositório do typeORM
 @EntityRepository(User)
